@@ -23,7 +23,8 @@
 
 ## 📸 Ekran Görüntüleri
 Uygulamaya ait ekran görüntüleri:
-[Uygulama 1.Videosunu İndir](https://github.com/Ahmetyilmazz/ToDo-APP/blob/24b2e42e5127e9f00afb773e3b40c77274760788/ToDoList.mp4)
+
+[Uygulama Videosunu İndir](https://github.com/Ahmetyilmazz/ToDo-APP/blob/24b2e42e5127e9f00afb773e3b40c77274760788/ToDoList.mp4)
 <div align="center">
   <img src="https://github.com/Ahmetyilmazz/ToDo-APP/blob/65115a2202409a7f93aedc310bd05a4ca66e49f0/Screenshots/0.png" width="300"/>
   <img src="https://github.com/Ahmetyilmazz/ToDo-APP/blob/bc278e34d6a86101a56b54100bb95f60ad31ddfe/Screenshots/1.png" width="300"/>
