@@ -30,6 +30,11 @@ Uygulamaya ait ekran görüntüleri:
   <img src="https://github.com/Ahmetyilmazz/ToDo-APP/blob/bc278e34d6a86101a56b54100bb95f60ad31ddfe/Screenshots/2.png" width="300"/>
   <img src="https://github.com/Ahmetyilmazz/ToDo-APP/blob/bc278e34d6a86101a56b54100bb95f60ad31ddfe/Screenshots/3.png" width="300"/>
   <img src="https://github.com/Ahmetyilmazz/ToDo-APP/blob/bc278e34d6a86101a56b54100bb95f60ad31ddfe/Screenshots/4.png" width="300"/>
+  <img src="https://github.com/Ahmetyilmazz/ToDo-APP/blob/3f638fc4862d62e84a9f0c82656d5495c4c6cd3d/Screenshots/5.png" width="300"/>
+  <img src="https://github.com/Ahmetyilmazz/ToDo-APP/blob/3f638fc4862d62e84a9f0c82656d5495c4c6cd3d/Screenshots/6.png" width="300"/>
+  <img src="https://github.com/Ahmetyilmazz/ToDo-APP/blob/3f638fc4862d62e84a9f0c82656d5495c4c6cd3d/Screenshots/7.png" width="300"/>
+  <img src="https://github.com/Ahmetyilmazz/ToDo-APP/blob/3f638fc4862d62e84a9f0c82656d5495c4c6cd3d/Screenshots/8.png" width="300"/>
+ 
 </div>
 
 ## 🚀 Kurulum
