@@ -1,6 +1,28 @@
-# My-ToDo APP
-ToDo List APP
+🚀 Flutter İle To-Do List Uygulaması! 📝
+ 
+ Flutter kullanarak geliştirdiğim To-Do List uygulamamı sizlerle paylaşmaktan büyük bir heyecan duyuyorum! 📱💻
+ 
+ Bu uygulama, kullanıcıların yapılacaklar listesini kolayca yönetmelerini sağlıyor. Görev ekleme, silme ve tamamlanmış görevleri işaretleme gibi özelliklerle günlük işlerinizi organize etmenize yardımcı oluyor. 
+ 
+ 📌 Kullandığım Başlıca Özellikler:
+ 
+ • 🛠 State Management: Uygulamanın akışını düzenlemek için Provider kullanarak durumu yönettim.
+ 
+ • 🛢 Firebase Entegrasyonu: Kullanıcıların görevlerini Firebase üzerinde saklayarak, bulut tabanlı veri yönetimi sağladım.
+ 
+ • 🎨 Responsive Tasarım: Farklı ekran boyutlarına uyum sağlayan dinamik ve kullanıcı dostu bir arayüz tasarladım.
 
+ • 📅 Görev Yönetimi: Görev ekleme, silme ve tamamlama işlemleri için pratik bir yapı geliştirdim.
+ 
+ • 🎯 Splash Ekranı: Şık bir splash ekranıyla kullanıcıları karşıladım, uygulamaya profesyonel bir başlangıç ekledim.
+
+ • 🔒 Kullanıcı Kimlik Doğrulama (Firebase Auth): Kullanıcı giriş işlemlerini Firebase Authentication ile güvence altına aldım.
+
+• 🖼 Launcher Icons: Uygulamayı daha çekici hale getirmek için özel ikonlar tasarlayarak uygulamanın başlangıç simgesini kişiselleştirdim.
+  
+
+## 📸 Ekran Görüntüleri
+Uygulamaya ait ekran görüntüleri:
 
 <div align="center">
   <img src="https://github.com/Ahmetyilmazz/ToDo-APP/blob/65115a2202409a7f93aedc310bd05a4ca66e49f0/Screenshots/0.png" width="300"/>
@@ -10,3 +32,8 @@ ToDo List APP
   <img src="https://github.com/Ahmetyilmazz/ToDo-APP/blob/bc278e34d6a86101a56b54100bb95f60ad31ddfe/Screenshots/4.png" width="300"/>
 </div>
 
+## 🚀 Kurulum
+Bu projeyi çalıştırmak için aşağıdaki adımları takip edin:
+1. Bu projeyi klonlayın:
+   ```bash
+   git clone https://github.com/Ahmetyilmazz/ToDo-APP.git
